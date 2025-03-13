@@ -1,0 +1,3 @@
+
+123|Joao|Teste|historia
+123|Joao|Calculo|Fisica
